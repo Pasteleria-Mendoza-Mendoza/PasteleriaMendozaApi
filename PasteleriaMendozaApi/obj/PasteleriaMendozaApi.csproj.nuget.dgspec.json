@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hector/Documentos/PasteleriaMendoza/PasteleriaMendozaApi/PasteleriaMendozaApi.csproj": {}
+  },
+  "projects": {
+    "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/Api.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/Api.DTOs.csproj",
+        "projectName": "Api.DTOs",
+        "projectPath": "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/Api.DTOs.csproj",
+        "packagesPath": "/home/hector/.nuget/packages/",
+        "outputPath": "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hector/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/hector/Documentos/PasteleriaMendoza/PasteleriaMendozaApi/PasteleriaMendozaApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hector/Documentos/PasteleriaMendoza/PasteleriaMendozaApi/PasteleriaMendozaApi.csproj",
+        "projectName": "PasteleriaMendozaApi",
+        "projectPath": "/home/hector/Documentos/PasteleriaMendoza/PasteleriaMendozaApi/PasteleriaMendozaApi.csproj",
+        "packagesPath": "/home/hector/.nuget/packages/",
+        "outputPath": "/home/hector/Documentos/PasteleriaMendoza/PasteleriaMendozaApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hector/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/Api.DTOs.csproj": {
+                "projectPath": "/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/Api.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.sqlserver": {
+              "target": "Package",
+              "version": "[6.0.21, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

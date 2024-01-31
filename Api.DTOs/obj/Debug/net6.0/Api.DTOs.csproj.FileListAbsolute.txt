@@ -1,0 +1,12 @@
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/bin/Debug/net6.0/Api.DTOs.deps.json
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/bin/Debug/net6.0/Api.DTOs.dll
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/bin/Debug/net6.0/Api.DTOs.pdb
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.csproj.AssemblyReference.cache
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.AssemblyInfoInputs.cache
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.AssemblyInfo.cs
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.csproj.CoreCompileInputs.cache
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.dll
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/refint/Api.DTOs.dll
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/Api.DTOs.pdb
+/home/hector/Documentos/PasteleriaMendoza/Api.DTOs/obj/Debug/net6.0/ref/Api.DTOs.dll
