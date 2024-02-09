@@ -9,5 +9,9 @@ namespace PasteleriaMendozaApi.Models.DAL
         {
         }
         public DbSet<AdminEn> admins {get;set;}
+
+        public DbSet<ProductsEN> Products {get;set;}
+
+        public DbSet<BookingsEN> Bookings {get;set;}
     }
 }
